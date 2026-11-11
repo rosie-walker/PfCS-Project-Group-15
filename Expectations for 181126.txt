@@ -1,0 +1,10 @@
+Expectations for 18/11/26
+
+
+Ross G - software needed for presentation (ie video clipping, Microsoft clipware, go through poop notes so I can through concepts/report)
+
+rosie - create player creation program difficulty filtering (user input player profile)
+
+Kristian - Cleaning the document, importing the file into program, putting it into the create data types for the
+
+for everyone - create a word doc for notes, that will explain their thought process and document any new ideas that they have or any errors that they face which will then be discussed in next meeting
