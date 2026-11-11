@@ -1,0 +1,29 @@
+type,difficulty,category,question,FALSE
+type,hard,General Knowledge,"In Scandinavian languages, the letter &Aring; means river.",FALSE
+type,hard,General Knowledge,This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.,FALSE
+type,hard,General Knowledge,Stagecoach owned &quot;South West Trains&quot; before losing the rights to FirstGroup and MTR in March of 2017.,FALSE
+type,hard,General Knowledge,&quot;Number 16 Bus Shelter&quot; was a child&#039;s name that was approved by the New Zealand government.,FALSE
+type,hard,General Knowledge,NCIS stands for &quot;Navy Corps Investigative Service&quot;,FALSE
+boolean,hard,Entertainment: Books,"In Harry Potter and the Deathly Hallows, Hermione destroyed the fourth Horcrux by stabbing it with the Sword of Gryffindor.",FALSE
+boolean,hard,Entertainment: Books,"Harry Potter was born on July 31st, 1980.",TRUE
+boolean,hard,Entertainment: Film,The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.,FALSE
+boolean,hard,Entertainment: Film,"&quot;Cube&quot;, &quot;Cube 2: Hypercube&quot; and &quot;Cube Zero&quot; were directed by the same person.",FALSE
+boolean,hard,Entertainment: Music,The song &quot;Mystery Train&quot; was released by artist &quot;Little Junior&#039;s Blue Flames&quot; in 1953.,TRUE
+boolean,hard,Entertainment: Music,"Pete Townshend&#039;s solo album, &quot;White City: A Novel&quot;, is set in the metropolitan area of Chicago.",FALSE
+boolean,hard,Entertainment: Music,The band STRFKR was also briefly known as Pyramiddd.,TRUE
+boolean,hard,Entertainment: Music,The singer Billie Holiday was also known as &quot;Lady Day&quot;.,TRUE
+boolean,hard,Entertainment: Video Games,"In &quot;Minecraft&quot;, gold tools are faster than diamond tools.",TRUE
+boolean,hard,Entertainment: Video Games,Unturned originally started as a Roblox game.,TRUE
+boolean,hard,Entertainment: Video Games,"In &quot;Call Of Duty: World At War&quot;, the first appearance of the &quot;PPSH-41&quot; in &quot;Zombies&quot; was in the map &quot;Der Riese&quot;.",FALSE
+boolean,hard,Entertainment: Video Games,"In Undertale, having a &quot;Fun Value&quot; set to 56-57 will play the &quot;Wrong Number Song Call&quot;.",FALSE
+boolean,hard,Entertainment: Video Games,"All of these maps were in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; on its initial release: House, Clubhouse, Border, Consulate.",FALSE
+boolean,hard,Science &amp; Nature,The value of one Calorie is different than the value of one calorie.,TRUE
+boolean,hard,Science &amp; Nature,It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.,TRUE
+boolean,hard,Science: Computers,DHCP stands for Dynamic Host Configuration Port.,FALSE
+boolean,hard,Geography,The two largest ethnic groups of Belgium are Flemish and Walloon. ,TRUE
+boolean,hard,Geography,"Switzerland has four national languages, English being one of them.",FALSE
+boolean,hard,Geography,Only one country in the world starts with the letter Q.,TRUE
+boolean,hard,History,The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.,TRUE
+boolean,hard,History,Japan was part of the Allied Powers during World War I.,TRUE
+boolean,hard,History,The Kingdom of Prussia briefly held land in Estonia.,FALSE
+boolean,hard,History,"The Battle of Trafalgar took place on October 23rd, 1805",FALSE

@@ -1,0 +1,21 @@
+Trivia Quiz.
+
+1- three files have been created each containing categories and questions based off of the respective difficulty level
+
+2-user will start up the program and be prompted if they wish to do the quiz alone of with a maximum of two other players.(3 players total)
+
+3-each player will enter their details and a player profile will be completed
+
+4- they will then be asked what difficulty they wish to play on
+
+5- the program will import the file for the chosen difficulty level and sort through the data choosing three random questions from each category and storing them within the chosen data type as the list of questions to be loaded.(players can have the option to filter down the number of categories to a minimum that is half the original amount(more questions from chosen categories can be loaded to make up for the loss of questions(make a formula for the sorting of questions based off the number of categories and figure out if this works with the data given)))
+
+6- each player will be prompted to provide an answer for the question(True or False)
+
+7-Each question is worth one point. if the user answers three questions in a row they are given a (x2) bonus. if they get a question incorrect the bonus will be taken off them
+
+8-there is a running leaderboard that will be displayed after each category.
+
+9- at the end of the quiz the winner will be displayed along with the leaderboard and other stats e.g.(each players best and worst category and others stats that will be thought of at a later date).
+
+10- if there is a tie a mini game or extra question can be brought up to decide the  winner(this can also be thought of at a later date)

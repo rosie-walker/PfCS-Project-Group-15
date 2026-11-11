@@ -1,0 +1,12 @@
+Program plan-meeting 1
+
+File1 - load/user input(differed)
+File2 - sorts data loaded(Easy, Medium, Hard)
+File 3- creates player objects through a player class
+File 4 -quiz(Differed)
+
+1- Data set has to be divided for program simplicity based off of category(kristian)
+2- Player creation(rosie)
+
+
+player attributes-score,name,

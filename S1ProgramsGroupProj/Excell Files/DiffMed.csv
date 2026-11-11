@@ -1,0 +1,107 @@
+﻿type,difficulty,category,question,FALSE
+type,medium,General Knowledge,"The bikini is named after the &quot;Bikini Atoll&quot;, an island where the United States conducted tests on atomic bombs.",FALSE
+type,medium,General Knowledge,&quot;Typewriter&quot; is the longest word that can be typed using only the first row on a QWERTY keyboard.,FALSE
+type,medium,General Knowledge,The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.,FALSE
+type,medium,General Knowledge,Popcorn was invented in 1871 by Frederick W. Rueckheim in the USA where he sold the snack on the streets of Chicago.,FALSE
+type,medium,General Knowledge,Kissing someone for one minute burns about 2 calories.,FALSE
+type,medium,General Knowledge,&quot;Santa Claus&quot; is a variety of melon.,FALSE
+type,medium,General Knowledge,The scientific name for the Southern Lights is Aurora Australis?,FALSE
+type,medium,General Knowledge,&quot;Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.&quot; is a grammatically correct sentence.,FALSE
+type,medium,General Knowledge,Fast food restaurant chains Carl&#039;s Jr. and Hardee&#039;s are owned by the same company.,FALSE
+type,medium,General Knowledge,The vapor produced by e-cigarettes is actually water.,FALSE
+type,medium,General Knowledge,"The word &quot;news&quot; originates from the first letters of the 4 main directions on a compass (North, East, West, South).",FALSE
+type,medium,General Knowledge,Sitting for more than three hours a day can cut two years off a person&#039;s life expectancy.,FALSE
+type,medium,General Knowledge,The British organisation CAMRA stands for The Campaign for Real Ale.,FALSE
+type,medium,General Knowledge,Cucumbers are usually more than 90% water.,FALSE
+type,medium,General Knowledge,The average woman is 5 inches / 13 centimeters shorter than the average man.,FALSE
+type,medium,General Knowledge,There are 86400 seconds in a day.,FALSE
+type,medium,General Knowledge,Haggis is traditionally ate on Burns Night.,FALSE
+type,medium,General Knowledge,The French word for &quot;glass&quot; is &quot;glace&quot;.,FALSE
+type,medium,General Knowledge,The US emergency hotline is 911 because of the September 11th terrorist attacks.,FALSE
+type,medium,General Knowledge,Francis Bacon died from a fatal case of pneumonia while he was attempting to preserve meat by stuffing a chicken with snow.,FALSE
+type,medium,General Knowledge,Instant mashed potatoes were invented by Canadian Edward Asselbergs in 1962.,FALSE
+type,medium,General Knowledge,The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.,FALSE
+type,medium,General Knowledge,The French word to travel is &quot;Travail&quot;,FALSE
+boolean,medium,Entertainment: Books,"Originally, the character Charlie from Charlie and the Chocolate Factory was going to be black.",TRUE
+boolean,medium,Entertainment: Film,The movie &quot;Tron&quot; received an Oscar nomination for Best Visual Effects.,FALSE
+boolean,medium,Entertainment: Film,The color of the pills in the Matrix were Blue and Yellow.,FALSE
+boolean,medium,Entertainment: Film,The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.,TRUE
+boolean,medium,Entertainment: Film,There aren&#039;t any live-action clones in &quot;Star Wars: Episode III - Revenge of the Sith&quot;.,TRUE
+boolean,medium,Entertainment: Music,"3 members of 2 Live Crew were arrested for playing songs from their album, As Nasty As They Wanna Be, live.",TRUE
+boolean,medium,Entertainment: Music,EDM label Monstercat signs tracks instead of artists.,TRUE
+boolean,medium,Entertainment: Music,Ashley Frangipane performs under the stage name Halsey.,TRUE
+boolean,medium,Entertainment: Music,&quot;The Division Bell&quot; is the final album of the progressive rock band Pink Floyd.,FALSE
+boolean,medium,Entertainment: Music,Arcade Fire&#039;s &#039;The Suburbs&#039; won the Album of the Year award in the 2011 Grammys.,TRUE
+boolean,medium,Entertainment: Music,Nick Mason is the only member to appear on every Pink Floyd album.,TRUE
+boolean,medium,Entertainment: Music,Metallica collaborated with Rowan Atkinson&#039;s Mr Bean on a 1992 comic relief single.,FALSE
+boolean,medium,Entertainment: Music,Soulja Boy&#039;s &#039;Crank That&#039; won a Grammy for Best Rap Song in 2007.,FALSE
+boolean,medium,Entertainment: Music,"Dave Grohl recorded the Foo Fighters&#039; debut, &quot;Foo Fighters,&quot; by himself.",TRUE
+boolean,medium,Entertainment: Music,&quot;Neutral Milk Hotel&quot; is a real band.,TRUE
+boolean,medium,Entertainment: Music,The cover of The Beatles album &quot;Abbey Road&quot; featured a Volkswagen Beetle in the background.,TRUE
+boolean,medium,Entertainment: Music,"Scottish producer Calvin Harris is from the town of Dumfries, Scotland.",TRUE
+boolean,medium,Entertainment: Music,Pink Guy&#039;s debut album was &quot;Pink Season&quot;.,FALSE
+boolean,medium,Entertainment: Music,Green Day&#039;s album &#039;American Idiot&#039; is considered a &quot;punk rock opera.&quot;,TRUE
+boolean,medium,Entertainment: Music,"For his performance at ComplexCon 2016 in Long Beach, California, Skrillex revived his &quot;Mothership&quot; set piece for one night only.",TRUE
+boolean,medium,Entertainment: Video Games,Metal Gear Solid V: The Phantom Pain runs on the Fox Engine.,TRUE
+boolean,medium,Entertainment: Video Games,"In Rocket League, you can play Basketball.",TRUE
+boolean,medium,Entertainment: Video Games,Amazon acquired Twitch in August 2014 for $970 million dollars.,TRUE
+boolean,medium,Entertainment: Video Games,"In Monster Hunter Generations, guild style is a type of hunting style.",TRUE
+boolean,medium,Entertainment: Video Games,In the game &quot;Until Dawn&quot; Emily is the only playable character who can be killed by another playable character directly.,TRUE
+boolean,medium,Entertainment: Video Games,"In &quot;League of Legends&quot;, there exists four different types of Dragon.",FALSE
+boolean,medium,Entertainment: Video Games,"TF2: The Heavy&#039;s voice actor, Gary Schwartz, voices the Demoman as well ",TRUE
+boolean,medium,Entertainment: Video Games,"During pre-production of &quot;Super Mario Bros.&quot;, Mario originally was meant to shoot bullets.",TRUE
+boolean,medium,Entertainment: Video Games,Resident Evil 4 was originally meant to be a Nintendo GameCube exclusive.,TRUE
+boolean,medium,Entertainment: Video Games,"In &quot;Overwatch,&quot; an allied McCree will say &quot;Step right up&quot; upon using his ultimate ability Deadeye.",TRUE
+boolean,medium,Entertainment: Video Games,Pistons were added to Minecraft in Beta 1.5.,FALSE
+boolean,medium,Entertainment: Video Games,The ADAM collecters in the Bioshock series are known as Little Sisters.,TRUE
+boolean,medium,Entertainment: Video Games,"In the game &quot;Subnautica&quot;, a &quot;Cave Crawler&quot; will attack you.",TRUE
+boolean,medium,Entertainment: Video Games,"In &quot;Starbound&quot;, the track played by the Decorated Music Box is named &quot;Atlas&quot;.",TRUE
+boolean,medium,Science &amp; Nature,&quot;Tachycardia&quot; or &quot;Tachyarrhythmia&quot; refers to a resting heart-rate near or over 100 BPM.,TRUE
+boolean,medium,Science &amp; Nature,The planet Mars has two moons orbiting it.,TRUE
+boolean,medium,Science &amp; Nature,Type 1 diabetes is a result of the liver working improperly.,FALSE
+boolean,medium,Science &amp; Nature,Pneumonoultramicroscopicsilicovolcanoconiosis is a synonym for the disease known as silicosis.,TRUE
+boolean,medium,Science &amp; Nature,Anatomy considers the forms of macroscopic structures such as organs and organ systems.,TRUE
+boolean,medium,Science &amp; Nature,"Like with the Neanderthals, Homo sapiens sapiens also interbred with the Denisovans.",TRUE
+boolean,medium,Science &amp; Nature,A person can get sunburned on a cloudy day.,TRUE
+boolean,medium,Science &amp; Nature,The &quot;Gympie Stinger&quot; is the deadliest plant in the world.,FALSE
+boolean,medium,Science &amp; Nature,"In the periodic table, Potassium&#039;s symbol is the letter K.",TRUE
+boolean,medium,Science &amp; Nature,"Scientists accidentally killed the once known world&#039;s oldest living creature, a mollusc, known to be aged as 507 years old.",TRUE
+boolean,medium,Science &amp; Nature,A defibrillator is used to start up a heartbeat once a heart has stopped beating.,FALSE
+boolean,medium,Science &amp; Nature,Steel is an alloy of Iron and Carbon.,TRUE
+boolean,medium,Science &amp; Nature,The Doppler effect applies to light.,TRUE
+boolean,medium,Science: Computers,All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.,FALSE
+boolean,medium,Science: Computers,FLAC stands for &quot;Free Lossless Audio Condenser&quot;&#039;,FALSE
+boolean,medium,Science: Computers,The common software-programming acronym &quot;I18N&quot; comes from the term &quot;Interlocalization&quot;.,FALSE
+boolean,medium,Science: Computers,The last Windows operating system to be based on the Windows 9x kernel was Windows 98.,FALSE
+boolean,medium,Science: Computers,The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.,TRUE
+boolean,medium,Science: Computers,A Boolean value of &quot;0&quot; represents which of these words?,FALSE
+boolean,medium,Science: Computers,It&#039;s not possible to format a write-protected DVD-R Hard Disk.,TRUE
+boolean,medium,Science: Computers,"Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.",FALSE
+boolean,medium,Science: Computers,The HTML5 standard was published in 2014.,TRUE
+boolean,medium,Geography,Antarctica is the largest desert in the world.,TRUE
+boolean,medium,Geography,The Sonoran Desert is located in eastern Africa.,FALSE
+boolean,medium,Geography,The capital of the US State Ohio is the city of Chillicothe.,FALSE
+boolean,medium,Geography,Is Tartu the capital of Estonia?,FALSE
+boolean,medium,Geography,The Southeast Asian island of Borneo is politically divided among 3 countries.,TRUE
+boolean,medium,Geography,Gothenburg is the capital of Sweden.,FALSE
+boolean,medium,Geography,There exists an island named &quot;Java&quot;.,TRUE
+boolean,medium,Geography,Japan has left-hand side traffic.,TRUE
+boolean,medium,Geography,"The title of the 1969 film &quot;Krakatoa, East_of Java&quot; is incorrect, as Krakatoa is in fact west of Java.",TRUE
+boolean,medium,Geography,&quot;Mongolia&quot; was a part of the now non-existent U.S.S.R.,FALSE
+boolean,medium,Geography,You could walk from Norway to North Korea while only passing through Russia.,TRUE
+boolean,medium,Geography,Seoul is the capital of North Korea.,FALSE
+boolean,medium,Geography,Liechtenstein does not have an airport.,TRUE
+boolean,medium,Geography,"There are no roads in/out of Juneau, Alaska.",TRUE
+boolean,medium,Geography,The flag of South Africa features 7 colours.,FALSE
+boolean,medium,Geography,"The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.",TRUE
+boolean,medium,Geography,Vietnam is the only country in the world that starts with V. ,FALSE
+boolean,medium,Geography,The surface area of Russia is slightly larger than that of the dwarf planet Pluto.,TRUE
+boolean,medium,History,"Sargon II, a king of the Neo-Assyrian Empire, was a direct descendant of Sargon of Akkad.",FALSE
+boolean,medium,History,Abraham Lincoln was the first U.S. President to be born outside the borders of the thirteen original states. ,TRUE
+boolean,medium,History,"Sir Issac Newton served as a Member of Parliament, but the only recorded time he spoke was to complain about a draft in the chambers.",TRUE
+boolean,medium,History,The M41 Walker Bulldog remains in service in some countries to this day.,TRUE
+boolean,medium,History,"In World War II, Hawker Typhoons served in the Pacific theater.",FALSE
+boolean,medium,History,The two atomic bombs dropped on Japan by the United States in August 1945 were named &#039;Little Man&#039; and &#039;Fat Boy&#039;.,FALSE
+boolean,medium,History,Theodore Roosevelt Jr. was the only General involved in the initial assault on D-Day.,TRUE
+boolean,medium,History,The first televised presidential debate was between Jimmy Carter and Gerald Ford.,FALSE
+boolean,medium,History,The Hundred Years&#039; War was fought for more than a hundred years.,TRUE
